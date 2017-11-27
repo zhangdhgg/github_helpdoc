@@ -6,7 +6,9 @@ git add README.md
 
 git commit -m "first commit" 
 
-git remote add origin https://github.com/zhangdhgg/github_helpdoc.git 
+git remote add origin https://github.com/zhangdhgg/github_helpdoc.git
+
+git pull origin master
 
 git push -u origin master 
 
